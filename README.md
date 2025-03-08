@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0389-find-the-difference) |
+| [1319-unique-number-of-occurrences](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1319-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [1319-unique-number-of-occurrences](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
