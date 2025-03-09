@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0389-find-the-difference) |
+| [0657-robot-return-to-origin](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0657-robot-return-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0492-construct-the-rectangle](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0492-construct-the-rectangle) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
