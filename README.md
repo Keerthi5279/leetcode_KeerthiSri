@@ -40,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0747-min-cost-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0904-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0904-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
