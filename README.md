@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0904-leaf-similar-trees) |
+## Math
+|  |
+| ------- |
+| [0492-construct-the-rectangle](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0492-construct-the-rectangle) |
 <!---LeetCode Topics End-->
