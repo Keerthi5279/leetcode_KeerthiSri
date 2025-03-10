@@ -45,14 +45,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0112-path-sum) |
 | [0904-leaf-similar-trees](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0112-path-sum) |
 | [0904-leaf-similar-trees](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0112-path-sum) |
 | [0904-leaf-similar-trees](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0904-leaf-similar-trees) |
 ## Math
 |  |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0657-robot-return-to-origin) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
