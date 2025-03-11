@@ -78,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0596-classes-more-than-5-students](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0596-classes-more-than-5-students) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
