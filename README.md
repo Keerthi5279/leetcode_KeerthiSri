@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0191-number-of-1-bits) |
+## Database
+|  |
+| ------- |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
