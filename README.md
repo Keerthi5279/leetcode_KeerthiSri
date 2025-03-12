@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0228-summary-ranges](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0228-summary-ranges) |
+| [0682-baseball-game](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0682-baseball-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0682-baseball-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0596-classes-more-than-5-students) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/2127-employees-whose-manager-left-the-company) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
