@@ -88,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0682-baseball-game) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
