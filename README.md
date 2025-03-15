@@ -64,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0258-add-digits) |
 | [0492-construct-the-rectangle](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0507-perfect-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0682-baseball-game) |
 ## Breadth-First Search
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
