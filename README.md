@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0596-classes-more-than-5-students) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Stack
