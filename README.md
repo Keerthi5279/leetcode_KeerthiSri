@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0197-rising-temperature) |
 | [0596-classes-more-than-5-students](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0596-classes-more-than-5-students) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
