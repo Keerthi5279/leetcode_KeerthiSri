@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0197-rising-temperature) |
 | [0596-classes-more-than-5-students](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0596-classes-more-than-5-students) |
+| [1182-game-play-analysis-iv](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1801-average-time-of-process-per-machine) |
