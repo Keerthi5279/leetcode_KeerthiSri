@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0389-find-the-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/1319-unique-number-of-occurrences) |
 ## String
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0228-summary-ranges) |
 | [0682-baseball-game](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0682-baseball-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0747-min-cost-climbing-stairs) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
