@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0056-merge-intervals) |
 | [0389-find-the-difference](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0056-merge-intervals) |
 | [0219-contains-duplicate-ii](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0228-summary-ranges) |
 | [0682-baseball-game](https://github.com/Keerthi5279/leetcode_KeerthiSri/tree/master/0682-baseball-game) |
